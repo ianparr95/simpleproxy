@@ -1,0 +1,4 @@
+#!/bin/bash
+javac cse461p3/Proxy.java
+java cse461p3/Proxy $1
+
